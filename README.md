@@ -1,1 +1,1 @@
-![Uygulama Ekran Görüntüsü](ScreenShots/s.png)
+![Uygulama Ekran Görüntüsü](s.png)
