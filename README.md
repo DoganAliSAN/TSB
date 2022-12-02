@@ -25,8 +25,8 @@ you can type `/help` to learn how to use TSB
 <img src="help.png" data-canonical-src="s.png" width="300" height="500" />
 
 
-`/url` command gets two parameters first for how many videos user wants 
-second for which tag TSB should look. This will take long time and return a txt file to user.
+`/url` command gets two parameters, first for how many videos user wants, 
+second for which tag TSB should look. This will take long time and return a text file to user.
 
-`/settings` commands is for setting number of likes and comments TSB will look for videos has equal or higher values.
+`/settings` commands is for setting number of likes and comment. TSB will look for videos which has equal or higher values.
 
