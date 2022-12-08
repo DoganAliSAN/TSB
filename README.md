@@ -3,7 +3,12 @@
 
 TSB will get videos from tiktok tag you specified and send you videos from telegram with a txt file.
 ## Installation
-Inside TSB folder do `pip3 install -r requirements.txt` this will install all the modules TSB needs
+First download files from github page.
+Inside TSB folder do `pip3 install -r requirements.txt` .
+This will install all the modules TSB needs
+
+To learn more about how to install TSB please check this video
+https://www.youtube.com/watch?v=KjSXLouS5Is
 
 ## Usage
 
